@@ -39,8 +39,7 @@ To embark on the project journey, follow these initial steps:
 Upon completing the setup, users can:
 
 1. Don the smart glasses and activate them.
-2. Employ voice commands to interact with the glasses and execute diverse tasks.
-3. Utilize object detection capabilities to identify objects in their surroundings.
+2. Utilize object detection capabilities to identify objects in their surroundings.
    
 ## Contact
 
