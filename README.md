@@ -2,7 +2,7 @@
 
 ## Description
 
-The # Hours-Vision project endeavors to create smart glasses tailored to assist visually impaired individuals in their daily lives. These glasses incorporate a fusion of cutting-edge technologies, including a voice assistant and object detection, to empower users with enhanced navigation and object recognition capabilities.
+The Hours-Vision project endeavors to create smart glasses tailored to assist visually impaired individuals in their daily lives. These glasses incorporate a fusion of cutting-edge technologies, including a voice assistant and object detection, to empower users with enhanced navigation and object recognition capabilities.
 
 ## Technologies Used
 
